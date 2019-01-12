@@ -1,4 +1,4 @@
-// fix view
+// fix view hook
 javascript:(
 	(function(){ 
 		var a=document.getElementsByClassName('is-wide-columns')[0];
@@ -23,7 +23,7 @@ javascript:(
 	})()
 )
 
-// fix save
+// fix save hook
 javascript:(
 	(function(){ 
 		window.isRemove = false;
