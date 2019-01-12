@@ -1,3 +1,4 @@
+// fix view
 javascript:(
 	(function(){ 
 		var a=document.getElementsByClassName('is-wide-columns')[0];
@@ -22,6 +23,7 @@ javascript:(
 	})()
 )
 
+// fix save
 javascript:(
 	(function(){ 
 		window.isRemove = false;
